@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "NodeNext",
+      "moduleResolution": "nodenext",
+      "lib": ["ESNext"],
+      "allowSyntheticDefaultImports": true,
+      "types": ["node", "socket.io"],
+    }
+  }
+  
